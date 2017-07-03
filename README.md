@@ -13,3 +13,9 @@ Currently supported hotstrings:
 * .confused
 * .doubt
 * .shock
+
+-------------
+#Notes
+* All txt files must be encoded in UTF-8 BOM.
+* The Emotes folder must be in the same directory as the main ahk file.
+* If you want to actually use this, make the main ahk file run on startup somehwere on your hard drive.
