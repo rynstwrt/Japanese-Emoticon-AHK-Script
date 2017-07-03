@@ -15,6 +15,7 @@ Currently supported hotstrings:
 * .shock
 
 -------------
+
 #Notes
 * All txt files must be encoded in UTF-8 BOM.
 * The Emotes folder must be in the same directory as the main ahk file.
