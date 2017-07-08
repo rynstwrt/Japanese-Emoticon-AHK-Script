@@ -42,6 +42,14 @@ Return
 SendEmote("Shock")
 Return
 
+::`.suicide::
+SendEmote("Suicide")
+Return
+
+::`.fight::
+SendEmote("Fight")
+Return
+
 SendEmote(fileName) {
 	Array := Object()
 	Loop, Read, %A_ScriptDir%\Emotes\%fileName%.txt
